@@ -107,7 +107,7 @@ resources:
     memory: "128Mi"
     cpu: "100m"
   limits:
-    memory: "500Mi"
+    memory: "550Mi"
     cpu: "1"
 
 readinessProbe:
